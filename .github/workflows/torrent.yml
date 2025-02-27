@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Design Course"
+  comment: "Design Course"
+  url: "https://download2388.mediafire.com/wg1gdxjo61tgcAtBPl7S-W_Fb2ukh03yhX3agBj6sJtWEggqzLtXl_RUZQVJSij1DsVJGKoaPLXaC5GF7bNfM1LZKCAqHy6fNJx-qCP0Ib9R35oqz3BYRn3vUTgLxMH2PdKLJJ9OXCgtNL59LnwsQboiA7nG3DRh-eoAmdW-hpzfXGE/xj7kpotbfk8vlqd/%D8%AF%D9%88%D8%B1%D8%A9+%D8%AA%D8%B5%D9%85%D9%8A%D9%85+%D9%88%D8%A8%D9%86%D8%A7%D8%A1+%D8%A7%D9%84%D9%87%D9%88%D9%8A%D9%91%D8%A7%D8%AA+%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D9%91%D8%A9.rar"
+  file_name: "design-course.rar"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
