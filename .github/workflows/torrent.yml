@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Design course"
-  comment: "Design course"
-  url: "https://download2388.mediafire.com/wg1gdxjo61tgcAtBPl7S-W_Fb2ukh03yhX3agBj6sJtWEggqzLtXl_RUZQVJSij1DsVJGKoaPLXaC5GF7bNfM1LZKCAqHy6fNJx-qCP0Ib9R35oqz3BYRn3vUTgLxMH2PdKLJJ9OXCgtNL59LnwsQboiA7nG3DRh-eoAmdW-hpzfXGE/xj7kpotbfk8vlqd/%D8%AF%D9%88%D8%B1%D8%A9+%D8%AA%D8%B5%D9%85%D9%8A%D9%85+%D9%88%D8%A8%D9%86%D8%A7%D8%A1+%D8%A7%D9%84%D9%87%D9%88%D9%8A%D9%91%D8%A7%D8%AA+%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D9%91%D8%A9.rar"
-  file_name: "design-course.rar"
+  name: "Windows 11"
+  comment: "Windows 11"
+  url: "https://software.download.prss.microsoft.com/dbazure/Win11_24H2_English_x64.iso?t=4bb89ed9-52a3-434d-ad0b-31f1f7ac78b2&P1=1741112507&P2=601&P3=2&P4=y%2F8B2iD6Voe5Ur8425bTONXrgJfFRCcJc1zKj0M7jk%2F0R%2BoDzPjA%2Bic9CHDq%2FVNIqwwXrQvQvgn7lwxP3t%2BNNTJPMHcVs1DVbXREqahelh5Om3EF0C8%2FybChi%2BCcjDswmNrQ1CmsQiD0TDajk0Nw4%2FuIkdlhfy9RmHg5KVapz3GPivfIbCqshKlo%2FPBmVth43GeCa4Bx4vfIZoUgxi5eSDbcDa8MjQjDlacBI1OIj3F4BIVy%2Bj2xZGuM99TVq8b3G0VR%2FBD1OewV7T0QYaemNaOCBRHJcVVaF9wbcn2w0yzq8msJyhUwFIsrHNp1nTzFnHkIZTlWkUFphcrzS2RGgw%3D%3D"
+  file_name: "windows11.iso.rar"
   piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
