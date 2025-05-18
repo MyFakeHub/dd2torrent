@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Windows 11"
-  comment: "Windows 11"
-  url: "https://software.download.prss.microsoft.com/dbazure/Win11_24H2_English_x64.iso?t=4bb89ed9-52a3-434d-ad0b-31f1f7ac78b2&P1=1741112507&P2=601&P3=2&P4=y%2F8B2iD6Voe5Ur8425bTONXrgJfFRCcJc1zKj0M7jk%2F0R%2BoDzPjA%2Bic9CHDq%2FVNIqwwXrQvQvgn7lwxP3t%2BNNTJPMHcVs1DVbXREqahelh5Om3EF0C8%2FybChi%2BCcjDswmNrQ1CmsQiD0TDajk0Nw4%2FuIkdlhfy9RmHg5KVapz3GPivfIbCqshKlo%2FPBmVth43GeCa4Bx4vfIZoUgxi5eSDbcDa8MjQjDlacBI1OIj3F4BIVy%2Bj2xZGuM99TVq8b3G0VR%2FBD1OewV7T0QYaemNaOCBRHJcVVaF9wbcn2w0yzq8msJyhUwFIsrHNp1nTzFnHkIZTlWkUFphcrzS2RGgw%3D%3D"
-  file_name: "windows11.iso.rar"
-  piece_size: 21 # Check the README.md for recommended piece size
+  name: "FIFA"
+  comment: "FIFA"
+  url: "magnet:?xt=urn:btih:9AF25AED2BB2D5C073E35FE938810C0B2097239C&dn=FIFA%2023%20Ultimate%20Edition%20v1.0.82.43747-MKDEV&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce"
+  file_name: "FIFA.zip"
+  piece_size: 24 # Check the README.md for recommended piece size
       
 jobs:
   create:
